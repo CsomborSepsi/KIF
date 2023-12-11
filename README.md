@@ -19,4 +19,6 @@ Sepsi Csombor Márton (JP33MZ)
 
 irrad24.mat, CONS24.mat, heatpump.slx: időjárás, fogyasztási profil és hőszivattyú adatok.
 
+osszevetes.slx: [példa](https://www.mathworks.com/help/sps/ug/single-phase-dynamic-load-block.html) és saját egyfázisú terhelés összevetése.
+
 **kif**: custom library első verziója.
